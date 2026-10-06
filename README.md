@@ -46,7 +46,3 @@ Five rice varieties (Arborio, Basmati, Ipsala, Jasmine and Karacadag) that look 
 
 Python · TensorFlow/Keras · MobileNetV2 · NumPy · Matplotlib · Streamlit
 
-
----
-
-⭐ If you find these projects interesting, feel free to star the repo or open an issue with ideas. Thanks for stopping by!
